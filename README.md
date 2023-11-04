@@ -9,11 +9,11 @@
  -->    <img align="middle" src="https://profile-counter.glitch.me/itszshivam/count.svg" />
 </p>
 
-<h1 align="center"><b> 𝕾𝖕𝖊𝖈𝖙𝖗𝖊 𝙓 𝕾𝖕𝖆𝖒🔥</b></h1>
+<h1 align="center"><b> 𝕾𝖍𝖎𝖛 𝙓 𝕾𝖕𝖆𝖒🔥</b></h1>
 
 <h4 align="center"> 𝐓𝐇𝐄 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
-<p align="center"><a href="https://t.me/itsz_shivam"><img src="https://telegra.ph/file/2b47da71aa223350b3076.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/ll_SABKA_BHAI_KILLER_ll"><img src="https://telegra.ph/file/230a240669f5a1fa1a762.jpg" width="400"></a></p>
 
 
 > ⭐️ Thanks to everyone for using THIS SPECTRE SPAM BOT, That is the greatest pleasure we have !
@@ -29,7 +29,7 @@
 <summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</b></summary>
 <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/itszshivam/Sk_spambot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/itszshivam/Shivam_spambot)
   
 </details>
 
@@ -51,4 +51,4 @@
 
 
 # ꜱᴜᴘᴘᴏʀᴛ ✨
-<a href="https://t.me/fun_here"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/RONNY_KI_DUNIYA"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
