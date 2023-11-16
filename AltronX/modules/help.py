@@ -54,7 +54,7 @@ extra_msg = f"""
   2) {hl}leave : Type in the Group bot will auto leave that group
 
 
-**© @itsz_shivam**
+**© @ll_SABKA_BHAI_KILLER_ll**
 """
 
                  
